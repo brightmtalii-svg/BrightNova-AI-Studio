@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=BrightNova AI Studio
+GenericName=Local AI Development Studio
+Comment=Build Locally. Think Beyond.
+Exec=/home/brightdev/Desktop/BrightNova_AI/run.sh
+TryExec=/home/brightdev/Desktop/BrightNova_AI/run.sh
+Path=/home/brightdev/Desktop/BrightNova_AI
+Icon=/home/brightdev/Desktop/BrightNova_AI/assets/icons/logo.svg
+Terminal=false
+StartupNotify=true
+StartupWMClass=BrightNova AI Studio
+Categories=Development;IDE;Utility;
+Keywords=AI;Ollama;OpenCode;Python;Coding;
